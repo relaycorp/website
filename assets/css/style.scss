@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none;
+}
+
+section a:hover, a:focus {
+  font-weight: normal;
+}

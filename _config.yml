@@ -1,0 +1,8 @@
+title: Relaycorp
+description: Building the computer network that mankind can rely on
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
