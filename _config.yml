@@ -1,5 +1,6 @@
 title: Relaycorp
 description: Building the computer network that mankind can rely on
+logo: /assets/logo.png
 
 markdown: kramdown
 theme: jekyll-theme-minimal
