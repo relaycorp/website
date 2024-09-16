@@ -14,4 +14,4 @@ starting with Internet blackouts:
 If you wish to contact us, please email [hello@relaycorp.tech](mailto:hello@relaycorp.tech) and make sure to include the word "relaying" somewhere in the email (if you don't, it'll be automatically deleted).
 
 Relaycorp, Inc. is a Delaware corporation.
-[Gus Narea](https://gustavo.engineer/) is the founder and CEO.
+[Gus Narea](https://gus.engineer) is the founder and CEO.
