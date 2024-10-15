@@ -1,9 +1,0 @@
-title: Relaycorp
-description: Tackling the most crucial and neglected communication problems
-logo: /assets/logo.png
-
-markdown: kramdown
-theme: jekyll-theme-minimal
-
-github:
-  is_project_page: false
